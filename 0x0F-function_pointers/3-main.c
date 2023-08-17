@@ -41,5 +41,5 @@ if ((o == '/' || o == '%') && arg2 == 0)
 
 	printf("%d\n", result);
 
-	return (0);
+	return (0);
 }
